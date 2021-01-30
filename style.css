@@ -14,9 +14,15 @@ h1 {
 
 a {
     display: block;
+    margin-bottom: 10px;
 }
 
 svg {
-width: 5%; 
+width: 3%; 
 height: auto;
+}
+
+svg:hover {
+
+    transform: rotate(180deg);
 }
