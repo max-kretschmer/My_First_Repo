@@ -1,0 +1,22 @@
+html {
+    background-color: #fff95c;
+}
+body {
+    font-family: Helvetica;
+}
+.container {
+margin-left: 50px;
+margin-top: 50px;
+}
+h1 {
+    color: black;
+}
+
+a {
+    display: block;
+}
+
+svg {
+width: 5%; 
+height: auto;
+}
